@@ -133,7 +133,7 @@ button:hover {
 
 .banner {
     height: 560px;
-    background: url('./assets/img/background.png') top center / cover no-repeat;
+    background: url('/assets/img/background.png') top center / cover no-repeat;
     position: relative;
     opacity: 0.08;
 }
